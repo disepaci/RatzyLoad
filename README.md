@@ -2,6 +2,8 @@
 
 Simple Lazy load for images wrote in plain javascript with the IntersectionObserver API.
 
+[**DEMO**](https://disepaci.github.io/RatzyLoad/demo/)
+
 ## Usage
 
 ```
